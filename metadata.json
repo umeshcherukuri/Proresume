@@ -1,0 +1,5 @@
+{
+  "name": "ProResume Builder",
+  "description": "A professional full-stack resume builder with multiple templates, history tracking, and PDF export.",
+  "requestFramePermissions": []
+}
